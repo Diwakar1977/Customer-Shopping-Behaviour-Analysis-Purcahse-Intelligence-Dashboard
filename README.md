@@ -56,7 +56,7 @@ Data cleaning and preprocessing were performed using Python.
   * Fixed inconsistent categories
   * Removed redundant columns
 * **Feature Engineering**
- Additional features created:
+** Additional features created:**
   * Age Group Segmentation
   * Annual Purchase Frequency
   * Customer Value Segmentation
@@ -152,7 +152,6 @@ The analysis identified key revenue drivers, customer segments, and purchasing t
   * Understanding purchase frequency trends
   * Payment preference analysis
   * Seasonal demand identification
-Overall, the project demonstrates how data analytics can be leveraged to improve customer experience, increase revenue, and support business growth.
 # 📚References
  * Python Pandas Documentation
  * Power BI Documentation
