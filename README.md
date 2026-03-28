@@ -69,7 +69,7 @@ Data preprocessing was performed using Python Pandas to ensure high-quality data
   * Senior
 * **Purchase Frequency Conversion**
 Converted categorical frequency into numeric yearly values
- **Example:*
+ * **Example:*
    * Weekly → 52
    * Monthly → 12
    * Quarterly → 4
