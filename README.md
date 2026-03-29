@@ -143,7 +143,7 @@ Customer-Shopping-Behavior-Analysis
   * Sales increase during seasonal promotions
   * Winter and Summer show higher purchase activity
 # ✅Conclusion
-This project successfully analyzed customer shopping behavior using Python, SQL, and Power BI to derive meaningful business insights.
+This project successfully analyzed customer shopping behavior using Python, MySQL, and Power BI to derive meaningful business insights.
 The analysis identified key revenue drivers, customer segments, and purchasing trends. The dashboard provides a comprehensive view of customer behavior, helping businesses make informed strategic decisions.
 * **Key outcomes include:**
   * Identification of top performing categories
